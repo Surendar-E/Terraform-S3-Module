@@ -18,7 +18,7 @@ Inputs
 1.CLONE THE REPOSITORY:
  
 
-        git clone 
+        git clone https://github.com/Surendar-E/Terraform-S3-Module.git
 
 
 2.configure the module:
