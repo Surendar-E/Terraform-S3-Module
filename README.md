@@ -15,8 +15,11 @@ Inputs
            AWS resources created
 
 1.aws_s3_bucket resource for the S3 bucket.
+
 2.aws_s3_bucket_website_configuration resource for configuring the S3 bucket as a website.
+
 3.aws_s3_bucket_acl resource for setting the S3 bucket access control.
+
 4.aws_s3_bucket_policy resource for applying a bucket policy to control access.
 
                     USAGE
